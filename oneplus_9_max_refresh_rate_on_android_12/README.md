@@ -1,9 +1,9 @@
-## Maximize the  refresh rate on Oneplus devices running android 12
+## Maximize the  refresh rate on Oneplus devices running android 11+
 
 Based on this page:
 https://forum.xda-developers.com/t/anyone-else-having-issues-getting-120hz-running-on-brave-or-kiwi-with-oos-12.4392753/
 
-This script will use the wireless adb server running on your oneplus 9 (pro) device with stock android 12 to set it to the maximum even for apps like youtube or the brave browser.
+This script will use the wireless adb server running on your oneplus 7T or younger (pro or not) device with stock android 11+ to set it to the maximum even for apps like youtube or the brave browser.
 
 ### Prerequisites
 The script expects that you have the android platform tools installed under ~/Documents/platform tools. Only the ./adb command is used.
