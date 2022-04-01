@@ -16,14 +16,14 @@ The script takes the ip:port of the wireless adb bridge server running on your a
 
 ### Script Usage
 ```
-$ sh max-global-refreshrate.sh 192.168.1.251:37673
+$ sh max-global-refreshrate.sh ip:port
 ```
 
 If everything works you should see the following
 
 ```
-connected to 192.168.1.251:37673
-disconnected 192.168.1.251:37673
+connected to ip:port
+disconnected ip:port
 
 ```
 
