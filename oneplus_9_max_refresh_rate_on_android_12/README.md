@@ -13,6 +13,8 @@ The script takes the ip:port of the wireless adb bridge server running on your a
 - You need developer tools activated on your device
 - You need to enable USB Debugging and set the thumbprint of your mac to be allowed.
 - You finally need to enable wireless debugging and pass the ip:port of the server running on your android device as a single argument to the script.
+- if you get an error that the shell is missing the WRITE_SECURE_SETTINGS permission, go to the developer settings and ensure that the option : Disable permission monitoring is enabled.
+
 
 ### Script Usage
 ```
